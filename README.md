@@ -5,9 +5,16 @@ Each set covers different aspects of the C++ language — from parameter passing
 
 ---
 
+🔧 Prerequisites
+
+- ** C++ compiler supporting C++17 or later (g++, clang++, MSVC).
+- ** Basic knowledge of C++ syntax.
+- ** Familiarity with object detection terminology (bounding boxes, detections, confidence score).
+
+
 ## 📂 Exercise Sets in 4 Folders
 
-### 1. Function Parameters and Argument Passing 
+### 1. C++ Function Parameters and Argument Passing 
 This folder contains **20 C++ exercises** for learning object detection–related programming concepts using:  
 
 Sections include:
@@ -41,7 +48,7 @@ Sections include:
 
 ---
 
-### 4. STL Containers
+### 4. C++ STL Containers
 This folder contains **35 STL container and algorithm exercises** integrated with object detection tasks.  
 
 Sections include:

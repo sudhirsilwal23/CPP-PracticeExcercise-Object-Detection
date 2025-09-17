@@ -5,11 +5,11 @@ Each set covers different aspects of the C++ language — from parameter passing
 
 ---
 
-🔧 Prerequisites
+## 🔧 Prerequisites
 
-- ** C++ compiler supporting C++17 or later (g++, clang++, MSVC).
-- ** Basic knowledge of C++ syntax.
-- ** Familiarity with object detection terminology (bounding boxes, detections, confidence score).
+- **C++ compiler supporting C++17 or later (g++, clang++, MSVC).** 
+- **Basic knowledge of C++ syntax.** 
+- **Familiarity with object detection terminology (bounding boxes, detections, confidence score).** 
 
 
 ## 📂 Exercise Sets in 4 Folders

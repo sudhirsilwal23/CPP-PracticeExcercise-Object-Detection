@@ -125,7 +125,7 @@ The exercises are organized into sections:
 
 ---
 
-## ⚡ Compilation & Execution
+## ⚡ How to Compile and Run
 
 Each exercise is a standalone `.cpp` file. Compile with `g++` and run:
 

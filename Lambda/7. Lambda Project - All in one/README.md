@@ -28,6 +28,7 @@ This exercise will use a regular function for a common, reusable task and then a
      - A confidence score `float confidence`.
 
 2. **Reusable Regular Function**
+   - Define a regular function is_high_quality that takes a DetectedObject and a floating-point threshold as parameters and returns true if the object's confidence is above the threshold. This function represents a reusable, general-purpose check.
    - Implement a function:
      ```cpp
      bool is_high_quality(const DetectedObject& obj, float threshold);
@@ -76,8 +77,8 @@ This exercise will use a regular function for a common, reusable task and then a
      ```
 
 7. **Visualization**
-   - Apply the drawing lambda to each filtered object.
-   - Print a confirmation message.
+   - Call the drawing lambda for each detected object in the loop
+   - Print a message confirming that the filtered objects have been "drawn" on the image.
 
 ---
 

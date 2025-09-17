@@ -2,7 +2,16 @@
 
 This folder contains **C++ exercises** for practicing **object detection concepts** while learning how to use different **C++ Standard Template Library (STL) containers, algorithms, and lambdas**.  
 
+The exercises are organized into sections:  
+
+- **Sequential Containers (Vector, List, Array)**  
+- **Associative Containers (Map, Set)**  
+- **Container Adapters (Queue, Stack, Deque)**  
+- **CC++ Algorithms with Lambda Functions**  
+
 ---
+
+## 📝 Topics & Exercises
 
 ## 📦 Sequential Containers (Vector, List, Array)
 

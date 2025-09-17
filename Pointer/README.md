@@ -1,18 +1,16 @@
 # 🖥️ C++ Pointer Exercises in Object Detection
 
-This repository contains a set of **C++ exercises** designed to strengthen understanding of **pointers** in the context of **image object detection**.  
-Each exercise focuses on common scenarios like managing detected objects, working with bounding boxes, and handling dynamic memory safely.
+This folder contains a set of **C++ exercises** designed to strengthen understanding of **pointers** in the context of **image object detection**.  
 
----
-
-## 📂 Topics Covered
-The exercises are divided into three main topics:
+The exercises are organized into sections: 
 
 1. **Creating Pointers**  
 2. **Dereferencing Pointers**  
 3. **Modifying Pointer Values**
 
 ---
+
+## 📝 Topics & Exercises
 
 ## 1. Creating Pointers
 

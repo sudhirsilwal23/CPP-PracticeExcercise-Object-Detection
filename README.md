@@ -9,7 +9,9 @@ Each set covers different aspects of the C++ language — from parameter passing
 I will continue expanding this collection with additional C++ concepts. Planned topics for future include:
 
 - **Object Detection, Tracking and Image Segmentation Simulation for a single class in C++.** 
-- **ONNX Runtime (ORT) Concepts for inference integration.** 
+- **ONNX Runtime (ORT) Concepts for inference integration.**
+- **CUTLASS for efficient GPU matrix-multiplication kernels in C++.**
+- **Triton Inference Server concepts for deploying C++ inference pipelines.**
 - **Templates for generic programming in object detection tasks.** 
 - **Eigen C++ Template Library for advanced matrix and linear algebra operations.** 
 - **Enums for managing object states and categories.** 

@@ -4,6 +4,19 @@ This repository contains multiple sets of **C++ exercises** designed to strength
 Each set covers different aspects of the C++ language — from parameter passing to STL containers and lambda functions — all applied to bounding boxes, detections, and tracking tasks.
 
 ---
+## 🔧 Future Plan
+
+I will continue expanding this collection with additional C++ concepts. Planned topics for future include:
+
+- **Object Detection, Tracking and Image Segmentation Simulation for a single class in C++.** 
+- **ONNX Runtime (ORT) Concepts for inference integration.** 
+- **Templates for generic programming in object detection tasks.** 
+- **Eigen C++ Template Library for advanced matrix and linear algebra operations.** 
+- **Enums for managing object states and categories.** 
+
+This is an ongoing process, and more exercises and code details will be added step by step in each file.** 
+
+---
 
 ## 🔧 Prerequisites
 
@@ -11,6 +24,7 @@ Each set covers different aspects of the C++ language — from parameter passing
 - **Basic knowledge of C++ syntax.** 
 - **Familiarity with object detection terminology (bounding boxes, detections, confidence score).** 
 
+---
 
 ## 📂 Exercise Sets in 4 Folders
 

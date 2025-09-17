@@ -1,6 +1,6 @@
 # C++ Exercises: Object Detection and STL Containers
 
-This repository contains **C++ exercises** for practicing **object detection concepts** while learning how to use different **C++ Standard Template Library (STL) containers, algorithms, and lambdas**.  
+This folder contains **C++ exercises** for practicing **object detection concepts** while learning how to use different **C++ Standard Template Library (STL) containers, algorithms, and lambdas**.  
 
 ---
 

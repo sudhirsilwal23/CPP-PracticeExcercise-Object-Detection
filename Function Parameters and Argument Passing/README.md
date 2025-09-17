@@ -1,8 +1,6 @@
 # Object Detection C++ Exercises
 
-This repository contains **20 C++ exercises** for learning object detection–related programming concepts using **call by value, call by reference, call by pointer, and call by const reference**.
-
-Each topic contains **5 exercises**, with structured examples using `BoundingBox`, `Detection`, `ImageFrame`, and `Pixel` structs. These exercises are designed to build a clear understanding of parameter passing techniques in C++ and how they affect object manipulation.
+This folder contains **20 C++ exercises** for learning object detection–related programming concepts using **call by value, call by reference, call by pointer, and call by const reference**.
 
 ---
 

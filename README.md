@@ -1,6 +1,15 @@
 # C++ Lambda Exercises for Object Detection
 
-This repository contains **advanced C++ lambda function exercises** applied to object detection tasks (e.g., bounding boxes, confidence scores, IOU calculations). The exercises are organized into sections: **Basic Lambdas, Lambdas with Parameters, Passing to Functions, Loops, Capture Clauses, and Comparisons with Regular Functions.**
+
+This repository contains **advanced C++ lambda function exercises** applied to object detection tasks (e.g., bounding boxes, confidence scores, IOU calculations). 
+The exercises are organized into sections:  
+
+- **Basic Lambdas**  
+- **Lambdas with Parameters**  
+- **Passing to Functions**  
+- **Loops**  
+- **Capture Clauses**  
+- **Comparisons with Regular Functions**
 
 ---
 

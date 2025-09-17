@@ -7,7 +7,7 @@ The exercises are organized into sections:
 - **Sequential Containers (Vector, List, Array)**  
 - **Associative Containers (Map, Set)**  
 - **Container Adapters (Queue, Stack, Deque)**  
-- **CC++ Algorithms with Lambda Functions**  
+- **C++ Algorithms with Lambda Functions**  
 
 ---
 

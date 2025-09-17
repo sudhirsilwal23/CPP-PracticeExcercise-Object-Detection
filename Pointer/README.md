@@ -4,9 +4,9 @@ This folder contains a set of **C++ exercises** designed to strengthen understan
 
 The exercises are organized into sections: 
 
-1. **Creating Pointers**  
-2. **Dereferencing Pointers**  
-3. **Modifying Pointer Values**
+- **Creating Pointers**  
+- **Dereferencing Pointers**  
+- **Modifying Pointer Values**
 
 ---
 

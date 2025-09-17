@@ -1,4 +1,4 @@
-# 🖥️ C++ Pointer Exercises in Object Detection
+# 🖥️ C++ Pointer Exercises 
 
 This folder contains a set of **C++ exercises** designed to strengthen understanding of **pointers** in the context of **image object detection**.  
 

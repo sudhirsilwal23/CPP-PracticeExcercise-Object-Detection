@@ -1,4 +1,4 @@
-# 🎯 Object Detection C++ Exercises
+# 🎯 C++ Function Parameters and Argument Passing Exercises 
 
 This folder contains **20 C++ exercises** for learning object detection–related programming concepts using **call by value, call by reference, call by pointer, and call by const reference**.
 

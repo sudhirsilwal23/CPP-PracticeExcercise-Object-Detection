@@ -70,7 +70,7 @@ Sections include:
 * [Sequential Containers (Vector, List, Array)](STL/1.%20Sequential%20Containers%20(Vector,%20List,%20Array)) → bounding box storage, tracking with `std::list`, resizing with `std::vector`.
 * [Associative Containers (Map, Set)](STL/2.%20Associative%20Containers%20(Map,%20Set)) → counting objects, unique IDs, mapping IDs to properties.
 * [Container Adapters (Queue, Stack, Deque)](STL/3.%20Container%20Adapters%20(Queue,%20Stack,%20Deque)) → FIFO detection processing, undo/redo stacks, priority dequeues.
-* [C++ Algorithms with Lambda Functions](STL/4.%20C++%20Algorithms%20with%20Lambda%20Functions) → using `accumulate`, `copy`, `count`, `find`, `replace`, `reverse`, and `sort` with detection data.
+* [C++ Algorithms with Lambda Functions](STL/4.%20STL%20Lambda%20and%20Standard%20Algorithms) → using `accumulate`, `copy`, `count`, `find`, `replace`, `reverse`, and `sort` with detection data.
 
 ---
 

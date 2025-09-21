@@ -33,10 +33,10 @@ This is an ongoing process, and more exercises and code details will be added st
 This folder contains **20 C++ exercises** for learning object detection–related programming concepts using:  
 
 Sections include:
-* [Call by Value](CPP-PracticeExcercise-Object-Detection/Function%20Parameters%20and%20Argument%20Passing%20/1.%20Call%20by%20Value/)
-* [Call by Reference](CPP-PracticeExcercise-Object-Detection/Function%20Parameters%20and%20Argument%20Passing%20/Call%20by%20Reference/)
-* [Call by Pointer](CPP-PracticeExcercise-Object-Detection/Function%20Parameters%20and%20Argument%20Passing%20/Call%20by%20Pointer/)
-* [Call by const Reference](CPP-PracticeExcercise-Object-Detection/Function%20Parameters%20and%20Argument%20Passing%20/Call%20by%20const%20Reference/) 
+* [Call by Value](Function%20Parameters%20and%20Argument%20Passing%20/1.%20Call%20by%20Value/)
+* [Call by Reference](Function%20Parameters%20and%20Argument%20Passing%20/Call%20by%20Reference/)
+* [Call by Pointer](Function%20Parameters%20and%20Argument%20Passing%20/Call%20by%20Pointer/)
+* [Call by const Reference](Function%20Parameters%20and%20Argument%20Passing%20/Call%20by%20const%20Reference/) 
 
 ---
 

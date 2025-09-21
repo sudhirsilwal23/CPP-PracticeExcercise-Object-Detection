@@ -58,20 +58,20 @@ Sections include:
 This folder contains **15 pointer-based C++ exercises** to build intuition on pointer usage in detection pipelines.
 
 Sections include:
-* [Creating Pointers](Pointer/Creating%20Pointers) → pointing to detections and bounding boxes.
-* [Dereferencing Pointers](Pointer/Dereferencing%20Pointers) → accessing and printing object data.
-* [Modifying Pointer Values](Pointer/Modifying%20Pointer%20Values) → updating confidence, resizing boxes, swapping objects.
-
+* [Creating Pointers](Pointer/1.%20Creating%20Pointers) → pointing to detections and bounding boxes.
+* [Dereferencing Pointers](Pointer/2.%20Dereferencing) → accessing and printing object data.
+* [Modifying Pointer Values](Pointer/3.%20Modify%20the%20Pointer%20Value) → updating confidence, resizing boxes, swapping objects.
 ---
 
 ### 4. C++ STL Containers
 This folder contains **35 STL container and algorithm exercises** integrated with object detection tasks.  
 
 Sections include:
-* [Sequential Containers](STL/Sequential%20Containers) → bounding box storage, tracking with `std::list`, resizing with `std::vector`.
-* [Associative Containers](STL/Associative%20Containers) → counting objects, unique IDs, mapping IDs to properties.
-* [Container Adapters](STL/Container%20Adapters) → FIFO detection processing, undo/redo stacks, priority dequeues.
-* [C++ Algorithms with Lambda Functions](STL/Algorithms%20with%20Lambda%20Functions) → using `accumulate`, `copy`, `count`, `find`, `replace`, `reverse`, and `sort` with detection data.
+* [Sequential Containers (Vector, List, Array)](STL/1.%20Sequential%20Containers%20(Vector%2C%20List%2C%20Array)) → bounding box storage, tracking with `std::list`, resizing with `std::vector`.
+* [Associative Containers (Map, Set)](STL/2.%20Associative%20Containers%20(Map%2C%20Set)) → counting objects, unique IDs, mapping IDs to properties.
+* [Container Adapters (Queue, Stack, Deque)](STL/3.%20Container%20Adapters%20(Queue%2C%20Stack%2C%20Deque)) → FIFO detection processing, undo/redo stacks, priority dequeues.
+* [C++ Algorithms with Lambda Functions](STL/4.%20C++%20Algorithms%20with%20Lambda%20Functions) → using `accumulate`, `copy`, `count`, `find`, `replace`, `reverse`, and `sort` with detection data.
+
 ---
 
 ## ⚡ How to Compile and Run

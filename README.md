@@ -46,11 +46,11 @@ This folder contains **30 lambda function exercises** applied to object detectio
 
 Sections include:
 * [Basic Lambdas](Lambda/1.%20Basic_Lambda) → thresholding, filtering, area checks.
-* [Lambdas with Parameters](Lambda/2.%20Lambda_with_Parameters) → IOU, scaling, normalization.
+* [Lambdas with Parameters](Lambda/2.%20Lambda_With_Parameters) → IOU, scaling, normalization.
 * [Passing Lambdas to Functions](Lambda/3.%20Passing_Lambdas_to_Functions) → sorting, filtering, transformations.
-* [Lambdas in Loops](Lambda/4.%20Lambdas_in_Loops) → logging, drawing, dynamic thresholds.
-* [Capture Clauses](Lambda/5.%20Capture_Clauses) → modifying counters, thresholds, and logging.
-* [Comparisons with Regular Functions](Lambda/6.%20Comparison_with_Regular_Functions) → reusability, performance, callbacks.
+* [Lambdas in Loops](Lambda/4.%20Using_Lambdas_in_Loops) → logging, drawing, dynamic thresholds.
+* [Capture Clauses](Lambda/5.%20Capture_Clause[]_and_Capture_by_Reference[&]) → modifying counters, thresholds, and logging.
+* [Comparisons with Regular Functions](Lambda/6.%20.Regular_Functions_vs_Lambda_Functions) → reusability, performance, callbacks.
 
 ---
 

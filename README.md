@@ -58,9 +58,9 @@ Sections include:
 This folder contains **15 pointer-based C++ exercises** to build intuition on pointer usage in detection pipelines.
 
 Sections include:
-- **Creating Pointers** → pointing to detections and bounding boxes.  
-- **Dereferencing Pointers** → accessing and printing object data.  
-- **Modifying Pointer Values** → updating confidence, resizing boxes, swapping objects.  
+* [Creating Pointers](Pointer/Creating%20Pointers) → pointing to detections and bounding boxes.
+* [Dereferencing Pointers](Pointer/Dereferencing%20Pointers) → accessing and printing object data.
+* [Modifying Pointer Values](Pointer/Modifying%20Pointer%20Values) → updating confidence, resizing boxes, swapping objects.
 
 ---
 
@@ -68,11 +68,10 @@ Sections include:
 This folder contains **35 STL container and algorithm exercises** integrated with object detection tasks.  
 
 Sections include:
-- **Sequential Containers (Vector, List, Array)** → bounding box storage, tracking with `std::list`, resizing with `std::vector`.  
-- **Associative Containers (Map, Set)** → counting objects, unique IDs, mapping IDs to properties.  
-- **Container Adapters (Queue, Stack, Deque)** → FIFO detection processing, undo/redo stacks, priority dequeues.  
-- **C++ Algorithms with Lambda Functions** → using `accumulate`, `copy`, `count`, `find`, `replace`, `reverse`, and `sort` with detection data.  
-
+* [Sequential Containers](STL/Sequential%20Containers) → bounding box storage, tracking with `std::list`, resizing with `std::vector`.
+* [Associative Containers](STL/Associative%20Containers) → counting objects, unique IDs, mapping IDs to properties.
+* [Container Adapters](STL/Container%20Adapters) → FIFO detection processing, undo/redo stacks, priority dequeues.
+* [C++ Algorithms with Lambda Functions](STL/Algorithms%20with%20Lambda%20Functions) → using `accumulate`, `copy`, `count`, `find`, `replace`, `reverse`, and `sort` with detection data.
 ---
 
 ## ⚡ How to Compile and Run

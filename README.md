@@ -1,7 +1,7 @@
 # 🎯 Object Detection C++ Exercises Collection
 
 This repository contains multiple sets of **C++ exercises** designed to strengthen programming skills in the context of **object detection**.  
-Each set covers different aspects of the C++ language — from parameter passing to STL containers and lambda functions — all applied to bounding boxes, detections, and tracking tasks.
+Each set covers different aspects of the C++ language — from function parameter passing to STL containers and lambda functions — all applied to bounding boxes, image segmentation, and object tracking tasks.
 
 ---
 ## 🔧 Future Plan
@@ -9,7 +9,6 @@ Each set covers different aspects of the C++ language — from parameter passing
 I will continue expanding this collection with additional C++ concepts. Planned topics for future include:
 
 - **Object Detection, Tracking and Image Segmentation Simulation for a single class in C++.** 
-- **ONNX Runtime (ORT) Concepts for inference integration.**
 - **CUTLASS for efficient GPU matrix-multiplication kernels in C++.**
 - **Triton Inference Server concepts for deploying C++ inference pipelines.**
 - **Templates for generic programming in object detection tasks.** 
@@ -24,7 +23,7 @@ This is an ongoing process, and more exercises and code details will be added st
 
 - **C++ compiler supporting C++17 or later (g++, clang++, MSVC).** 
 - **Basic knowledge of C++ syntax.** 
-- **Familiarity with object detection terminology (bounding boxes, detections, confidence score).** 
+- **Familiarity with object detection terminology (Bounding boxes, IoU, mAP, Detections, Confidence score, Precision, Recall, F1-score, AP@50, AP@7).** 
 
 ---
 
@@ -34,7 +33,8 @@ This is an ongoing process, and more exercises and code details will be added st
 This folder contains **20 C++ exercises** for learning object detection–related programming concepts using:  
 
 Sections include:
-- **Call by Value**  
+- **Call by Value**  [Link Text](CPP-PracticeExcercise-Object-Detection/Function Parameters and Argument Passing
+/1. Call by Value/)
 - **Call by Reference**  
 - **Call by Pointer**  
 - **Call by const Reference**  
@@ -85,3 +85,24 @@ g++ Exercise1.cpp -o Exercise1
 
 # Run
 ./Exercise1
+```
+
+**Note:** For all the files compilation and execution steps are the same.  
+
+		  Just replace the filename in the compile command with the file you want to run.
+
+
+---
+
+### 🤝 Contributing
+
+- Fork this repo
+- Add your own ONNX Runtime C++ examples
+- Submit a PR 🚀
+- If you find any bug in the code, please report to sudhirsilwal23@gmail.com
+
+---
+
+### 📜 License
+
+MIT License © 2025 Sudhir Silwal

@@ -34,9 +34,9 @@ This folder contains **20 C++ exercises** for learning object detection–relate
 
 Sections include:
 * [Call by Value](Function%20Parameters%20and%20Argument%20Passing/1.%20Call%20by%20Value)
-* [Call by Reference](Function%20Parameters%20and%20Argument%20Passing/Call%20by%20Reference)
-* [Call by Pointer](Function%20Parameters%20and%20Argument%20Passing/Call%20by%20Pointer)
-* [Call by const Reference](Function%20Parameters%20and%20Argument%20Passing/Call%20by%20const%20Reference)
+* [Call by Reference](Function%20Parameters%20and%20Argument%20Passing/2.%20Call%20by%20Reference)
+* [Call by Pointer](Function%20Parameters%20and%20Argument%20Passing/3.%20Call%20by%20Pointer)
+* [Call by const Reference](Function%20Parameters%20and%20Argument%20Passing/4.%20Call%20by%20const%20Reference)
 
 ---
 

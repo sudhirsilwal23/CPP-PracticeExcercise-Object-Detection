@@ -104,4 +104,6 @@ g++ Exercise1.cpp -o Exercise1
 
 ### 📜 License
 
-MIT License © 2025 Sudhir Silwal
+Apache License 2.0 © 2025 Sudhir Silwal
+
+This project is licensed under the Apache License, Version 2.0 - see the [LICENSE](LICENSE) file for details.

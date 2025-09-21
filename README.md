@@ -1,7 +1,7 @@
-# 🎯 Object Detection C++ Exercises Collection
+#  Object Detection Concepts - C++ Exercises Collection
 
-This repository contains multiple sets of **C++ exercises** designed to strengthen programming skills in the context of **object detection**.  
-Each set covers different aspects of the C++ language — from function parameter passing to STL containers and lambda functions — all applied to bounding boxes, image segmentation, and object tracking tasks.
+This repository contains multiple sets of **C++ exercises** designed to strengthen programming skills in the context of **object detection**  metrics and components.  
+Each set covers different aspects of the C++ language from function parameter passing to STL containers and lambda functions — all applied to bounding boxes, image segmentation, and object tracking components.
 
 ---
 ## 🔧 Future Plan

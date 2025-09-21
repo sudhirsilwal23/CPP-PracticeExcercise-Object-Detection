@@ -50,7 +50,7 @@ Sections include:
 * [Passing Lambdas to Functions](Lambda/3.%20Passing_Lambdas_to_Functions) → sorting, filtering, transformations.
 * [Lambdas in Loops](Lambda/4.%20Using_Lambdas_in_Loops) → logging, drawing, dynamic thresholds.
 * [Capture Clauses](Lambda/5.%20Capture_Clause[]_and_Capture_by_Reference[&]) → modifying counters, thresholds, and logging.
-* [Comparisons with Regular Functions](Lambda/6.%20.Regular_Functions_vs_Lambda_Functions) → reusability, performance, callbacks.
+* [Comparisons with Regular Functions](Lambda/6.%20Regular_Functions_vs_Lambda_Functions) → reusability, performance, callbacks.
 
 ---
 

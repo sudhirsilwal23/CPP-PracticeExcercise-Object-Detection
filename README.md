@@ -32,6 +32,17 @@ This is an ongoing process, and more exercises and code details will be added st
 ### 1. C++ Function Parameters and Argument Passing 
 This folder contains **20 C++ exercises** for learning object detection–related programming concepts using:  
 
+Sections include:
+* [Call by Value](Function%20Parameters%20and%20Argument%20Passing/1.%20Call%20by%20Value)
+* [Call by Reference](Function%20Parameters%20and%20Argument%20Passing/Call%20by%20Reference)
+* [Call by Pointer](Function%20Parameters%20and%20Argument%20Passing/Call%20by%20Pointer)
+* [Call by const Reference](Function%20Parameters%20and%20Argument%20Passing/Call%20by%20const%20Reference)
+
+---
+
+### 2. C++ Lambda 
+This folder contains **30 lambda function exercises** applied to object detection tasks (e.g., bounding boxes, confidence scores, IOU calculations).  
+
 
 Sections include:
 * [Basic Lambdas](Lambda/1.%20Basic_Lambda) → thresholding, filtering, area checks.
@@ -40,18 +51,6 @@ Sections include:
 * [Lambdas in Loops](Lambda/4.%20Lambdas_in_Loops) → logging, drawing, dynamic thresholds.
 * [Capture Clauses](Lambda/5.%20Capture_Clauses) → modifying counters, thresholds, and logging.
 * [Comparisons with Regular Functions](Lambda/6.%20Comparison_with_Regular_Functions) → reusability, performance, callbacks.
----
-
-### 2. C++ Lambda 
-This folder contains **30 lambda function exercises** applied to object detection tasks (e.g., bounding boxes, confidence scores, IOU calculations).  
-
-Sections include:
-- **Basic Lambdas** → thresholding, filtering, area checks.  
-- **Lambdas with Parameters** → IOU, scaling, normalization.  
-- **Passing Lambdas to Functions** → sorting, filtering, transformations.  
-- **Lambdas in Loops** → logging, drawing, dynamic thresholds.  
-- **Capture Clauses** → modifying counters, thresholds, and logging.  
-- **Comparisons with Regular Functions** → reusability, performance, callbacks.  
 
 ---
 

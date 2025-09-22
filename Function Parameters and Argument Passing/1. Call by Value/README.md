@@ -1,12 +1,6 @@
-# 🎯 C++ Function Parameters and Argument Passing Exercises 
-
-This folder contains **20 C++ exercises** for learning object detection–related programming concepts using **call by value**.
+# 🎯 C++ Call by Value Exercises 
 
 ---
-
-## 📝 Topics & Exercises
-
-### 1. Call by Value
 
 - **Exercise 1. Bounding Box Area Calculation**  
   Write a function `calculateArea` that takes a `BoundingBox` object by value and returns its area.  

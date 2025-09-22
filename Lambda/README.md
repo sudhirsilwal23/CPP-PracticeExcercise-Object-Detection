@@ -1,4 +1,4 @@
-# ⚡ C++ Lambda Exercises 
+# C++ Lambda Exercises 
 
 This folder contains **advanced C++ lambda function exercises** applied to object detection tasks (bounding boxes, confidence scores, IOU calculations, etc.).  
 
@@ -13,7 +13,7 @@ The exercises are organized into sections:
 
 ---
 
-## 📝 Topics & Exercises
+## Topics & Exercises
 
 ---
 
@@ -145,7 +145,7 @@ The exercises are organized into sections:
 
 ---
 
-## 🚀 How to Compile & Run
+## How to Compile & Run
 
 Each exercise is a standalone `.cpp` file.  
 

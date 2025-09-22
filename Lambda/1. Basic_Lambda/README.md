@@ -2,8 +2,6 @@
 
 ---
 
-### 1. Basic Lambda Examples
-
 - **Exercise 1. Confidence Thresholding**  
   Write a lambda to count all detected objects with a confidence score above a user-defined threshold.  
 

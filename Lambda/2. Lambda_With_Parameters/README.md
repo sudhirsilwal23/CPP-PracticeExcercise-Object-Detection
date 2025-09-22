@@ -2,8 +2,6 @@
 
 ---
 
-### 2. Lambda with Parameters
-
 - **Exercise 6. Detailed Object Info**  
   Write a lambda that takes a `DetectedObject` as a parameter and prints its ID, class, and confidence score.  
 

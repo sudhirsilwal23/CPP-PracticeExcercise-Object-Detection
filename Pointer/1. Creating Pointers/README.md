@@ -2,9 +2,6 @@
 
 ---
 
-## 1. Creating Pointers
-These exercises focus on initializing and using pointers to manage object data.
-
 ### Exercise 1.1: Bounding Box Pointer   
 Define a struct `BoundingBox` with `x, y, width, height` members. Create a `BoundingBox` object and a pointer that points to it. Print the address stored in the pointer.
 

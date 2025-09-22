@@ -1,4 +1,4 @@
-# ⚡ C++ Basic Lambda Exercises 
+# C++ Basic Lambda Exercises 
 
 ---
 
@@ -22,7 +22,7 @@
 ---
 
 
-## 🚀 How to Compile & Run
+## How to Compile & Run
 
 Each exercise is a standalone `.cpp` file.  
 

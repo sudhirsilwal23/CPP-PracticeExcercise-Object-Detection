@@ -1,4 +1,4 @@
-# ⚡ C++ Regular Functions vs. Lambdas Exercises 
+# C++ Regular Functions vs. Lambdas Exercises 
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 How to Compile & Run
+## How to Compile & Run
 
 Each exercise is a standalone `.cpp` file.  
 

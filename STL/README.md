@@ -1,4 +1,4 @@
-# 📚 C++ STL Containers Exercises
+# C++ STL Containers Exercises
 
 This folder contains **C++ exercises** for practicing **object detection concepts** while learning how to use different **C++ Standard Template Library (STL) containers, algorithms, and lambdas**.  
 
@@ -15,7 +15,7 @@ The exercises are organized into sections:
 
 ---
 
-## 📦 Sequential Containers (Vector, List, Array)
+## Sequential Containers (Vector, List, Array)
 
 ### Exercise 1. Object Bounding Boxes with `std::vector`  
 Write a C++ program that defines a struct or class named `BoundingBox` with members for coordinates `(x, y, width, height)`.  
@@ -62,7 +62,7 @@ This demonstrates efficient insertion and removal in the middle of the list.
 
 ---
 
-## 🔑 Associative Containers (Map, Set)
+## Associative Containers (Map, Set)
 
 ### Exercise 6. Counting Detected Objects with `std::map`  
 Define a struct `DetectedObject` with a string `label` (e.g., `"car"`, `"pedestrian"`).  
@@ -99,7 +99,7 @@ Highlight how lookup in a `map` is faster than linear search.
 
 ---
 
-## ⏳ Container Adapters (Queue, Stack, Deque)
+## Container Adapters (Queue, Stack, Deque)
 
 ### Exercise 11. Processing Detections in Order with `std::queue`  
 Simulate a stream of detections using `std::queue<BoundingBox>`.  
@@ -142,7 +142,7 @@ Simulate sequential detection by dequeuing paths and printing:
 
 ---
 
-## ⚡ C++ Algorithms with Lambda Functions
+## C++ Algorithms with Lambda Functions
 
 ### Exercise 16. Total Confidence Score (`std::accumulate`)  
 Given a vector of objects with `confidence_score`, use `std::accumulate` and a lambda to compute the total.  
@@ -248,7 +248,7 @@ Sort detections by label, then group and process each group.
 
 ---
 
-## 🚀 How to Compile and Run
+## How to Compile and Run
 
 Each exercise is provided as a standalone `.cpp` file.  
 To compile and run:

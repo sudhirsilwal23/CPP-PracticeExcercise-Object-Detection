@@ -1,4 +1,4 @@
-# 🎯 C++ Call by Reference Exercises 
+# C++ Call by Reference Exercises 
 
 ---
 
@@ -30,7 +30,7 @@
 ---
 
 
-## ⚡ How to Compile and Run
+## How to Compile and Run
 
 Each exercise is a standalone `.cpp` file. Compile with `g++` and run:
 

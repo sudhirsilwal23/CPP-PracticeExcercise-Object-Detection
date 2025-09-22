@@ -4,7 +4,7 @@ This repository contains multiple sets of **C++ exercises** designed to strength
 Each set covers different aspects of the C++ language from function parameter passing to STL containers and lambda functions — all applied to bounding boxes, image segmentation, and object tracking components.
 
 ---
-## 🔧 Future Plan
+## Future Plan
 
 I will continue expanding this collection with additional C++ concepts. Planned topics for future include:
 
@@ -19,7 +19,7 @@ This is an ongoing process, and more exercises and code details will be added st
 
 ---
 
-## 🔧 Prerequisites
+## Prerequisites
 
 - **C++ compiler supporting C++17 or later (g++, clang++, MSVC).** 
 - **Basic knowledge of C++ syntax.** 
@@ -27,7 +27,7 @@ This is an ongoing process, and more exercises and code details will be added st
 
 ---
 
-## 📂 Exercise Sets in 4 Folders
+## Exercise Sets in 4 Folders
 
 ### 1. C++ Function Parameters and Argument Passing 
 This folder contains **20 C++ exercises** for learning object detection related programming concepts and all exercises can be found under their respective directories.  
@@ -74,7 +74,7 @@ Sections include:
 
 ---
 
-## ⚡ How to Compile and Run
+## How to Compile and Run
 
 Each exercise is a standalone `.cpp` file. You can compile and run any file with `g++`:
 

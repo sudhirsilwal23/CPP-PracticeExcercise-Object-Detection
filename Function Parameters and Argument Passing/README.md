@@ -1,4 +1,4 @@
-# 🎯 C++ Function Parameters and Argument Passing Exercises 
+# C++ Function Parameters and Argument Passing Exercises 
 
 This folder contains **20 C++ exercises** for learning object detection–related programming concepts using **call by value, call by reference, call by pointer, and call by const reference**.
 
@@ -11,7 +11,7 @@ The exercises are organized into sections:
 
 ---
 
-## 📝 Topics & Exercises
+## Topics & Exercises
 
 ### 1. Call by Value
 
@@ -125,7 +125,7 @@ The exercises are organized into sections:
 
 ---
 
-## ⚡ How to Compile and Run
+## How to Compile and Run
 
 Each exercise is a standalone `.cpp` file. Compile with `g++` and run:
 

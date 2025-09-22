@@ -1,4 +1,4 @@
-# 🎯 C++ Call by Value Exercises 
+# C++ Call by Value Exercises 
 
 ---
 
@@ -29,7 +29,7 @@
 
 ---
 
-## ⚡ How to Compile and Run
+## How to Compile and Run
 
 Each exercise is a standalone `.cpp` file. Compile with `g++` and run:
 

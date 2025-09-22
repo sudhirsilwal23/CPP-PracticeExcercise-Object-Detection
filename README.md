@@ -30,7 +30,7 @@ This is an ongoing process, and more exercises and code details will be added st
 ## 📂 Exercise Sets in 4 Folders
 
 ### 1. C++ Function Parameters and Argument Passing 
-This folder contains **20 C++ exercises** for learning object detection related programming concepts and All exercises can be found under their respective directories.  
+This folder contains **20 C++ exercises** for learning object detection related programming concepts and all exercises can be found under their respective directories.  
 
 Sections include:
 * [Call by Value](Function%20Parameters%20and%20Argument%20Passing/1.%20Call%20by%20Value)
@@ -41,7 +41,7 @@ Sections include:
 ---
 
 ### 2. C++ Lambda 
-This folder contains **30 lambda function exercises** applied to object detection tasks (e.g., bounding boxes, confidence scores, IOU calculations) and All exercises can be found under their respective directories.    
+This folder contains **30 lambda function exercises** applied to object detection tasks (e.g., bounding boxes, confidence scores, IOU calculations) and all exercises can be found under their respective directories.    
 
 
 Sections include:
@@ -55,7 +55,7 @@ Sections include:
 ---
 
 ### 3. C++ Pointer 
-This folder contains **15 pointer-based C++ exercises** to build intuition on pointer usage in detection pipelines and All exercises can be found under their respective directories.  
+This folder contains **15 pointer-based C++ exercises** to build intuition on pointer usage in detection pipelines and all exercises can be found under their respective directories.  
 
 Sections include:
 * [Creating Pointers](Pointer/1.%20Creating%20Pointers) → pointing to detections and bounding boxes.
@@ -64,7 +64,7 @@ Sections include:
 ---
 
 ### 4. C++ STL Containers
-This folder contains **35 STL container and algorithm exercises** integrated with object detection tasks and All exercises can be found under their respective directories.    
+This folder contains **35 STL container and algorithm exercises** integrated with object detection tasks and all exercises can be found under their respective directories.    
 
 Sections include:
 * [Sequential Containers (Vector, List, Array)](STL/1.%20Sequential%20Containers%20(Vector,%20List,%20Array)) → bounding box storage, tracking with `std::list`, resizing with `std::vector`.

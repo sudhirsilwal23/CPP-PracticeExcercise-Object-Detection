@@ -1,4 +1,4 @@
-#  C++ 100 Exercises for Object Detection Concepts
+#  C++ Exercises for Object Detection Concepts
 
 This repository contains multiple sets of **C++ exercises** designed to strengthen programming skills in the context of **object detection**  metrics and components.  
 Each set covers different aspects of the C++ language from function parameter passing to STL containers and lambda functions — all applied to bounding boxes, image segmentation, and object tracking components.
@@ -97,8 +97,6 @@ Just replace the c++ source code filename(Exercise1.cpp) in the compile command 
 ### 🤝 Contributing
 
 - Fork this repo
-- Add your own ONNX Runtime C++ examples
-- Submit a PR 🚀
 - If you find any bug in the code, please report to sudhirsilwal23@gmail.com
 
 ---

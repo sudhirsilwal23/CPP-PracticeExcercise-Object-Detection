@@ -4,20 +4,6 @@ This repository contains multiple sets of **C++ exercises** designed to strength
 Each set covers different aspects of the C++ language from function parameter passing to STL containers and lambda functions — all applied to bounding boxes, image segmentation, and object tracking components.
 
 ---
-## Future Plan
-
-I will continue expanding this collection with additional C++ concepts. Planned topics for future include:
-
-- **Object Detection, Tracking and Image Segmentation Simulation for a single class in C++.** 
-- **CUTLASS for efficient GPU matrix-multiplication kernels in C++.**
-- **Triton Inference Server concepts for deploying C++ inference pipelines.**
-- **Templates for generic programming in object detection tasks.** 
-- **Eigen C++ Template Library for advanced matrix and linear algebra operations.** 
-- **Enums for managing object states and categories.** 
-
-This is an ongoing process, and more exercises and code details will be added step by step in each file.** 
-
----
 
 ## Prerequisites
 
@@ -67,7 +53,7 @@ Sections include:
 This folder contains **35 STL container and algorithm exercises** integrated with object detection tasks and all exercises can be found under their respective directories.    
 
 Sections include:
-* [Sequential Containers (Vector, List, Array)](STL/1.%20Sequential%20Containers%20(Vector,%20List,%20Array)) → bounding box storage, tracking with `std::list`, resizing with `std::vector`.
+* [Sequential Containers (Vector, List, Array)](STL/1.%20Sequential%20Containers%20(Vector,%20List,%20Array)) → bounding box storage, `std::list`, `std::vector`.
 * [Associative Containers (Map, Set)](STL/2.%20Associative%20Containers%20(Map,%20Set)) → counting objects, unique IDs, mapping IDs to properties.
 * [Container Adapters (Queue, Stack, Deque)](STL/3.%20Container%20Adapters%20(Queue,%20Stack,%20Deque)) → FIFO detection processing, undo/redo stacks, priority dequeues.
 * [C++ Algorithms with Lambda Functions](STL/4.%20STL%20Lambda%20and%20Standard%20Algorithms) → using `accumulate`, `copy`, `count`, `find`, `replace`, `reverse`, and `sort` with detection data.
@@ -91,6 +77,20 @@ g++ Exercise1.cpp -o Exercise1
 Just replace the c++ source code filename(Exercise1.cpp) in the compile command with the file you want to run.
 -o Exercise1: This is an option flag that tells the compiler to name the output executable file Exercise1. Running the Executable ./Exercise1.
 
+---
+
+## Future Plan
+
+I will continue expanding this collection with additional C++ concepts. Planned topics for future include:
+
+- **Object Detection, Tracking and Image Segmentation Simulation for a single class in C++.** 
+- **CUTLASS for efficient GPU matrix-multiplication kernels in C++.**
+- **Triton Inference Server concepts for deploying C++ inference pipelines.**
+- **Templates for generic programming in object detection tasks.** 
+- **Eigen C++ Template Library for advanced matrix and linear algebra operations.** 
+- **Enums for managing object states and categories.** 
+
+This is an ongoing process, and more exercises and code details will be added step by step in each file.** 
 
 ---
 

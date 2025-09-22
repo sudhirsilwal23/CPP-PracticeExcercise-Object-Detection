@@ -1,4 +1,4 @@
-# 📚 C++ STL Containers(Sequential Containers (Vector, List, Array) Exercises
+# C++ STL Containers(Sequential Containers (Vector, List, Array) Exercises
 
 ---
 
@@ -43,7 +43,7 @@ This demonstrates efficient insertion and removal in the middle of the list.
 
 ---
 
-## 🚀 How to Compile and Run
+## How to Compile and Run
 
 Each exercise is provided as a standalone `.cpp` file.  
 To compile and run:

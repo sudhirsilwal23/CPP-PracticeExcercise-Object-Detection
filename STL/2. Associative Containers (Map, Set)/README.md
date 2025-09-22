@@ -35,7 +35,7 @@ Highlight how lookup in a `map` is faster than linear search.
 ---
 
 
-## 🚀 How to Compile and Run
+## How to Compile and Run
 
 Each exercise is provided as a standalone `.cpp` file.  
 To compile and run:

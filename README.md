@@ -1,4 +1,6 @@
 #  C++ Exercises for Object Detection Concepts
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sudhirsilwal23.CPP-PracticeExcercise-Object-Detection)
+
 
 This repository contains multiple sets of **C++ exercises** designed to strengthen programming skills in the context of **object detection**  metrics and components.  
 Each set covers different aspects of the C++ language from function parameter passing to STL containers and lambda functions and all applied to bounding boxes, image segmentation, and object tracking components.

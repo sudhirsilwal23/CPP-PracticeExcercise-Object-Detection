@@ -1,5 +1,5 @@
 #  C++ Exercises for Object Detection Concepts
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=sudhirsilwal23.cpp-practiceexcercise-object-detection)
+![Visitor Count](https://komarev.com/ghpvc/?username=sudhirsilwal23&repo=CPP-PracticeExcercise-Object-Detection&color=blue&style=flat-square)
 
 
 This repository contains multiple sets of **C++ exercises** designed to strengthen programming skills in the context of **object detection**  metrics and components.  
